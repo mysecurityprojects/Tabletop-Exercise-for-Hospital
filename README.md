@@ -1,1 +1,2 @@
 # Tabletop-Exercise-for-Hospital
+After receiving a series of letters over the last 10 year from various health related organizations notifying me of a security breach regarding my health care information I am genuinely curious about cyber security in the health care industry. This is the motivation for this project. I have conducted a sample table top exercise that includes discussion points and issues to address emergency management and preparation before the acutal actual attack happens. 
