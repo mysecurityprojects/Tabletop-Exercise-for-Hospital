@@ -83,7 +83,8 @@ This tabletop exercise will simulate a ransomware attack on the Electronic Healt
       6. What are the specific challenges you foresee in restoring pediatric patient data?
       7. How would you address media inquiries while protecting the patient privacy of minors and the integrity of the investigation?
       8. Describe the process to ensure continued safe and effective delivery of healthcare specifically for medication administration, allergy checks, and access to patient history for a child 
-         with a complex medical background.
+         with a complex medical background. Participants should be encouraged to think practically about how essential clinical functions would be maintained without relying on electronic systems, 
+         in particular for vulnerable pediatric patients. 
       9. What decision would the leadership team need to consider if detailed medical histories of pediatric patients were under threat of being released and exposed to the public? What are the 
          legal and ethical implications that would weigh most heavily in this discussion.
       
